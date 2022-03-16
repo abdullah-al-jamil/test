@@ -1,1 +1,1 @@
-Hadoop hadoop map reduce mapreduce hadoop map
+hadoop map reduce mapreduce hadoop map
